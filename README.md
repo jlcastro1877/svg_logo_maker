@@ -27,9 +27,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ![image](https://github.com/jlcastro1877/svg_logo_maker/assets/161878013/73a4f7d2-3a8e-46ea-b039-d9dfc5a4eb13)
 ![image](https://github.com/jlcastro1877/svg_logo_maker/assets/161878013/2e85fa2b-a6f9-4e13-b84b-00483754ff84)
 
-
-```
-
-## Test
-![image](https://github.com/jlcastro1877/svg_logo_maker/assets/161878013/d5c671d5-c728-459b-998a-4f44594271a8)
-
+![image](https://github.com/jlcastro1877/svg_logo_maker/assets/161878013/6c27bbc6-1f46-44eb-8433-04eca12369e0)
